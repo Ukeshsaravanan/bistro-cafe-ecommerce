@@ -9,7 +9,7 @@ const CartPage = () => {
     <div className= "text-white max-w-[1800px] mx-auto mt-80">
       <Header />
       <CartProducts />
-      <div className="mt-80">
+      <div className="md:mt-80">
           <Footer />
       </div>
 
